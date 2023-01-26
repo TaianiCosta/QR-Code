@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@500&display=swap');
+
+
+- Cinza claro: hsl(212, 45%, 89%)
+
+
+
+body {
+    font-family: 'Outfit', sans-serif;
+}
+
+.conteudo {
+    background-color: hsl(0, 0%, 100%);
+    text-align: center;
+}
+
+h1 {
+    color: hsl(218, 44%, 22%);
+}
+
+p {
+    color: hsl(220, 15%, 55%);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+}
+
+.attribution a { 
+    color: hsl(327, 88%, 50%); 
+}
