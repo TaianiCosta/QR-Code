@@ -20,13 +20,6 @@ body {
     padding: 1% 1% 2% 1%;
 }
 
-@media (max-width: 375px){
-    .conteudo {
-        width: 100%;
-        flex-direction: column;
-    }
-}
-
 img {
     width: 95%;
     height: 80%;
@@ -53,4 +46,10 @@ p {
 
 .attribution a { 
     color: hsl(327, 88%, 50%); 
+}
+
+@media (max-width: 375px){
+    .conteudo {
+        width: 100%;
+    }
 }
