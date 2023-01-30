@@ -48,8 +48,9 @@ p {
     color: hsl(327, 88%, 50%); 
 }
 
-@media (max-width: 375px){
+@media screen and (max-width: 600px){
     .conteudo {
         width: 100%;
+        margin: 8%;
     }
 }
