@@ -5,10 +5,6 @@ Esta é uma solução para o [desafio do componente de código QR no Frontend Me
 
 ## Visão geral
 
-### Captura de tela
-
-![Projeto](./sysroot/home/elder/Documentos/estudos Tai/QR Code)
-
 ### Links
 
 - URL da solução: [https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Status]
